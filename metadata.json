@@ -1,0 +1,7 @@
+{
+  "name": "HobbyHive",
+  "description": "A focused social platform for hobbyists to connect, learn, and collaborate based on skills rather than popularity.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
